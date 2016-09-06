@@ -3,3 +3,5 @@
 anu
 
 kassi nimi: prints
+
+koera nimi: muki
